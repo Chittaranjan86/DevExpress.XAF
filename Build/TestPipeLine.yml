@@ -94,6 +94,7 @@ jobs:
           **\*LookupDefaultObject*.Tests.dll
           **\*MasterDet*Tests.dll
           **\*ModelViewIn*Tests.dll
+          **\*Office*Calendar*Tests.dll
           **\*Office*Todo*Tests.dll
           **\*Office*Microsoft*Tests.dll
           **\*Office.Cloud.Tests.dll
