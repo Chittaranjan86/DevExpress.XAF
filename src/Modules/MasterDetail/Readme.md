@@ -77,6 +77,6 @@ Xpand.XAF.Modules.Reactive.ReactiveModuleBase.Unload(typeof(Xpand.XAF.Modules.Ma
 
 
 ### Tests
-The module is tested on Azure for each build with these [tests](https://github.com/eXpandFramework/Packages/tree/master/src/Tests/Xpand.XAF.s.MasterDetail.MasterDetail). 
+The module is tested on Azure for each build with these [tests](https://github.com/eXpandFramework/DevExpress.XAF/tree/master/src/Tests/MasterDetail). 
 All Tests run as per our [Compatibility Matrix](https://github.com/eXpandFramework/DevExpress.XAF#compatibility-matrix)
 
